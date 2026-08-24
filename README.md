@@ -21,11 +21,19 @@ This project heavily utilizes dynamic memory allocation and complex data structu
 3. Run the executable.
 4. Follow the on-screen terminal menu to interact with the system.
 
-   <img width="460" height="292" alt="PHOTO-2025-07-14-17-27-37" src="https://github.com/user-attachments/assets/a34cb43f-d789-410b-a3e8-e60a85f8c465" />
    <img width="585" height="351" alt="image" src="https://github.com/user-attachments/assets/8fe8da19-d664-48ee-9d9e-4feef8726c65" />
-   <img width="460" height="292" alt="PHOTO-2025-07-14-17-27-37" src="https://github.com/user-attachments/assets/8d9e2d2a-c2c0-4fb2-8a7f-c8f7c13296ec" />
-   <img width="749" height="464" alt="image" src="https://github.com/user-attachments/assets/0b62291c-2e43-491a-9157-783fca469512" />
-   <img width="614" height="371" alt="image" src="https://github.com/user-attachments/assets/56199d73-aafc-4fdd-b2cf-b7e85fce74f0" />
+   <img width="460" height="292" alt="PHOTO-2025-07-14-17-27-37" src="https://github.com/user-attachments/assets/a34cb43f-d789-410b-a3e8-e60a85f8c465" />
+
+   <img width="1090" height="120" alt="image" src="https://github.com/user-attachments/assets/87fb08b2-eaea-474f-affd-73a19245c34d" />
+   <img width="380" height="246" alt="image" src="https://github.com/user-attachments/assets/7cd7c15d-493a-4cdd-bd59-889665663d9b" />
+   <img width="1090" height="83" alt="image" src="https://github.com/user-attachments/assets/3f718971-2593-43a8-b0a9-4ae12f8e6c7c" />
+   <img width="668" height="411" alt="image" src="https://github.com/user-attachments/assets/aff1118f-6139-4995-9e3e-f98e548d5aaf" />
+   <img width="614" height="371" alt="image" src="https://github.com/user-attachments/assets/8400ed78-23c3-4a39-b7cc-6fa9a005dfd1" />
+   <img width="1090" height="237" alt="image" src="https://github.com/user-attachments/assets/50c87e95-696b-4227-bebc-ec4f5085ca53" />
+
+
+
+  
    
 
 
