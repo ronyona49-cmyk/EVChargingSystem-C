@@ -1,4 +1,4 @@
-<img width="460" height="292" alt="PHOTO-2025-07-14-17-27-37" src="https://github.com/user-attachments/assets/a34cb43f-d789-410b-a3e8-e60a85f8c465" /># ⚡ EV Charging Station Management System
+# ⚡ EV Charging Station Management System
 
 A comprehensive C-based software system for managing electric vehicle (EV) charging stations. 
 Developed as a final project by Ron Yona Cohen and Shon Gottfried.
@@ -21,10 +21,12 @@ This project heavily utilizes dynamic memory allocation and complex data structu
 3. Run the executable.
 4. Follow the on-screen terminal menu to interact with the system.
 
+   <img width="460" height="292" alt="PHOTO-2025-07-14-17-27-37" src="https://github.com/user-attachments/assets/a34cb43f-d789-410b-a3e8-e60a85f8c465" />
    <img width="585" height="351" alt="image" src="https://github.com/user-attachments/assets/8fe8da19-d664-48ee-9d9e-4feef8726c65" />
    <img width="460" height="292" alt="PHOTO-2025-07-14-17-27-37" src="https://github.com/user-attachments/assets/8d9e2d2a-c2c0-4fb2-8a7f-c8f7c13296ec" />
    <img width="749" height="464" alt="image" src="https://github.com/user-attachments/assets/0b62291c-2e43-491a-9157-783fca469512" />
    <img width="614" height="371" alt="image" src="https://github.com/user-attachments/assets/56199d73-aafc-4fdd-b2cf-b7e85fce74f0" />
+   
 
 
 
